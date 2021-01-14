@@ -1,4 +1,4 @@
-# Papers_Notes
+# Papers-Notes
 
 This repository contains my paper reading notes on deep learning and machine learning, mainly focused on my thesis "Deep Learning based Multi-Object Tracking, Sensor Fusion and Motion Forecasting for Intelligent Vehicles applications".
 
