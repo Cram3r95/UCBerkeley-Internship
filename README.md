@@ -10,9 +10,10 @@ This repository contains my paper and posts reading notes on deep learning and m
 14th: Scenario Understanding and Motion Prediction for Autonomous Driving - Review and Comparison (T-ITS 2021) \
 28th: A Survey of Autonomous Driving:Common Practices and Emerging Technologies (T-ITS 2020)
 
-### February (1 paper ; 1 post)
+### February (2 papers ; 1 post)
 4th: 
 <ul>
 <li><p>Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks (CVPR 2018)</p></li>
 <li><p>Post: L0 Norm, L1 Norm, L2 Norm & L-Infinity Norm: https://montjoile.medium.com/l0-norm-l1-norm-l2-norm-l-infinity-norm-7a7d18a4f40c</p></li>
 </ul>
+4th: An Attentive GAN for Predicting Paths Compliant to Social and Physical Constraints (CVPR 2019)
