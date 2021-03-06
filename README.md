@@ -16,4 +16,4 @@ This repository contains my paper and posts reading notes on deep learning and m
 <li><p>Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks (CVPR 2018)</p></li>
 <li><p>Post: L0 Norm, L1 Norm, L2 Norm & L-Infinity Norm: https://montjoile.medium.com/l0-norm-l1-norm-l2-norm-l-infinity-norm-7a7d18a4f40c</p></li>
 </ul>
-4th: An Attentive GAN for Predicting Paths Compliant to Social and Physical Constraints (CVPR 2019)
+28th: An Attentive GAN for Predicting Paths Compliant to Social and Physical Constraints (CVPR 2019)
