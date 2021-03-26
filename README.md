@@ -8,7 +8,7 @@ This repository contains my paper and posts reading notes on deep learning and m
 --------------------------
 ### January (2 papers)
 14th: Scenario Understanding and Motion Prediction for Autonomous Driving - Review and Comparison (T-ITS 2021) \
-28th: A Survey of Autonomous Driving:Common Practices and Emerging Technologies (T-ITS 2020)
+28th: A Survey of Autonomous Driving: Common Practices and Emerging Technologies (T-ITS 2020)
 
 ### February (2 papers ; 1 post)
 4th: 
