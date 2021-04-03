@@ -7,7 +7,7 @@ This repository contains my paper and posts reading notes on deep learning and m
 ## 2021 
 --------------------------
 ### January (2 papers)
-14th: Scenario Understanding and Motion Prediction for Autonomous Driving - Review and Comparison (T-ITS 2021) \
+14th: Scenario Understanding and Motion Prediction for Autonomous Driving - Review and Comparison \
 28th: A Survey of Autonomous Driving: Common Practices and Emerging Technologies (T-ITS 2020)
 
 ### February (2 papers ; 1 post)
@@ -17,3 +17,7 @@ This repository contains my paper and posts reading notes on deep learning and m
 <li><p>Post: L0 Norm, L1 Norm, L2 Norm & L-Infinity Norm: https://montjoile.medium.com/l0-norm-l1-norm-l2-norm-l-infinity-norm-7a7d18a4f40c</p></li>
 </ul>
 28th: An Attentive GAN for Predicting Paths Compliant to Social and Physical Constraints (CVPR 2019)
+
+### March (2 papers)
+30th: MultiXNet: Multiclass Multistage Multimodal Motion Prediction 
+31st: Implementation of Real-time Safety and Edge Computing Vision Fusion on Embedded Vehicle 
