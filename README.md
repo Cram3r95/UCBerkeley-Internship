@@ -19,5 +19,8 @@ This repository contains my paper and posts reading notes on deep learning and m
 28th: An Attentive GAN for Predicting Paths Compliant to Social and Physical Constraints (CVPR 2019)
 
 ### March (2 papers)
-30th: MultiXNet: Multiclass Multistage Multimodal Motion Prediction 
+30th: MultiXNet: Multiclass Multistage Multimodal Motion Prediction \
 31st: Implementation of Real-time Safety and Edge Computing Vision Fusion on Embedded Vehicle 
+
+### April (1 post)
+20th: Encoder-Decoder Long Short-Term Memory Networks
