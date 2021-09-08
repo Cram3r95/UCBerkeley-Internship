@@ -27,7 +27,7 @@ This repository contains my paper (Pa) and posts (Po) reading notes on deep lear
 
 ### September (WIP)
 3rd: (Pa, ITSC 2019) INTERACTION Dataset: An INTERnational, Adversarial and Cooperative moTION Dataset in Interactive Driving Scenarios with Semantic Maps \
-6th: (Po) Raster vs Vector Maps: What's the Difference & Which are Best?
+6th: (Po) Raster vs Vector Maps: What's the Difference & Which are Best? \
 7th: 
 <ul>
 <li><p> (Pa, CVPR 2021) Imagining The Road Ahead: Multi-Agent Trajectory Prediction via Differentiable Simulation </p></li> 
