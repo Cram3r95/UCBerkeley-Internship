@@ -13,3 +13,5 @@ Total:
 
 ### July 
 Total: 
+
+NYU Deep Learning Course: https://atcold.github.io/pytorch-Deep-Learning/en/week01/01-1/
