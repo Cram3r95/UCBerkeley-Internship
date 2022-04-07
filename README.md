@@ -28,8 +28,15 @@ This repository contains my tasks summary at the end of each day, paper (Pa) and
 <li><p> Almost all paperwork is done.
 <li><p> Read Project "Explainable AI for behaviour-prediction models".
 <li><p> Finish to watch the first lecture (NYU-DL): "History, motivation, and evolution of Deep Learning". What's left: Highlight the theory of 1.1. and 1.2.
-<li><p> See Lecture 1.1. "Graph Neural Networks" (UPenn-GNNs)
+<li><p> See Lecture 1.1. "Graph Neural Networks" (UPenn-GNNs).
 <li><p> Install LaneGCN and start reading its paper.
+</ul>
+6th: 
+<ul>
+<li><p> See Practicum 1 (NYU-Dl). What's left: Highlighy Lecture 1 and Practicum 1 theory, and run practicum 1 code.
+<li><p> See Lecture 1.2. "Machine Learning on Graphs: The Why" (UPenn-GNNs).
+<li><p> See Video 1 (Essence of Linear Algebra) and SVD (Singular Value Decomposition).
+<li><p> Start reading "YOU MOSTLY WALK ALONE: ANALYZING FEATURE ATTRIBUTION IN TRAJECTORY PREDICTION" paper.
 </ul>
   
 Total papers and posts: \
