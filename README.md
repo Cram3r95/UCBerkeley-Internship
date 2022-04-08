@@ -38,22 +38,30 @@ This repository contains my tasks summary at the end of each day, paper (Pa) and
 <li><p> See Video 1 (Essence of Linear Algebra) and SVD (Singular Value Decomposition).
 <li><p> Start reading "YOU MOSTLY WALK ALONE: ANALYZING FEATURE ATTRIBUTION IN TRAJECTORY PREDICTION" paper.
 </ul>
+7th: 
+<ul>
+<li><p> Finish reading "YOU MOSTLY WALK ALONE: ANALYZING FEATURE ATTRIBUTION IN TRAJECTORY PREDICTION" paper
+</ul>
   
-Total papers and posts: \
-Total lectures: \
+Total papers: 1 \
+Total posts: \
+Total lectures: 3 \
 Total codes:
 
 ### May 
-Total papers and posts: \
+Total papers: \
+Total posts: \
 Total lectures: \
-Total codes:  
+Total codes:
 
 ### June 
-Total papers and posts: \
+Total papers: \
+Total posts: \
 Total lectures: \
-Total codes: 
+Total codes:
 
 ### July 
-Total papers and posts: \
+Total papers: \
+Total posts: \
 Total lectures: \
-Total codes: 
+Total codes:
