@@ -36,11 +36,11 @@ This repository contains my tasks summary at the end of each day, paper (Pa) and
 <li><p> See Practicum 1 (NYU-DL). What's left: Highlighy Lecture 1 and Practicum 1 theory, and run practicum 1 code.
 <li><p> See Lecture 1.2. "Machine Learning on Graphs: The Why" (UPenn-GNNs).
 <li><p> See Video 1 (Essence of Linear Algebra) and SVD (Singular Value Decomposition).
-<li><p> Start reading "YOU MOSTLY WALK ALONE: ANALYZING FEATURE ATTRIBUTION IN TRAJECTORY PREDICTION" paper.
+<li><p> Start reading "You Mostly Walk Alone. Analizing Feature Attribution in Trajectory Prediction" paper.
 </ul>
 7th: 
 <ul>
-<li><p> Finish reading "YOU MOSTLY WALK ALONE: ANALYZING FEATURE ATTRIBUTION IN TRAJECTORY PREDICTION" paper
+<li><p> Finish reading "You Mostly Walk Alone. Analizing Feature Attribution in Trajectory Prediction" paper
 </ul>
 7th: 
 <ul>
