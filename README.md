@@ -33,7 +33,7 @@ This repository contains my tasks summary at the end of each day, paper (Pa) and
 </ul>
 6th: 
 <ul>
-<li><p> See Practicum 1 (NYU-Dl). What's left: Highlighy Lecture 1 and Practicum 1 theory, and run practicum 1 code.
+<li><p> See Practicum 1 (NYU-DL). What's left: Highlighy Lecture 1 and Practicum 1 theory, and run practicum 1 code.
 <li><p> See Lecture 1.2. "Machine Learning on Graphs: The Why" (UPenn-GNNs).
 <li><p> See Video 1 (Essence of Linear Algebra) and SVD (Singular Value Decomposition).
 <li><p> Start reading "YOU MOSTLY WALK ALONE: ANALYZING FEATURE ATTRIBUTION IN TRAJECTORY PREDICTION" paper.
@@ -42,9 +42,17 @@ This repository contains my tasks summary at the end of each day, paper (Pa) and
 <ul>
 <li><p> Finish reading "YOU MOSTLY WALK ALONE: ANALYZING FEATURE ATTRIBUTION IN TRAJECTORY PREDICTION" paper
 </ul>
+7th: 
+<ul>
+<li><p> Read post "Kullback-Leibler Divergence for Machine Learning".
+<li><p> Read post "A Quick Intro to Leave-One-Out Cross-Validation (LOOCV)".
+<li><p> Almost finished with "Exploring Social Posterior Collapse in Variational Autoencoder for Interaction Modeling" paper.
+<li><p> Start reading "Interventional Behavior Prediction Avoiding Overly Confident Anticipation in Interactive Prediction" paper.
+<li><p> Start to second lecture (NYU-DL): "Stochastic gradient descent and backpropagation" (6:53 YT video)
+</ul>
   
 Total papers: 1 \
-Total posts: \
+Total posts: 2 \
 Total lectures: 3 \
 Total codes:
 
