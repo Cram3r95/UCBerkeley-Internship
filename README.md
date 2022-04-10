@@ -42,17 +42,18 @@ This repository contains my tasks summary at the end of each day, paper (Pa) and
 <ul>
 <li><p> Finish reading "You Mostly Walk Alone. Analizing Feature Attribution in Trajectory Prediction" paper
 </ul>
-7th: 
+8th: 
 <ul>
 <li><p> Read post "Kullback-Leibler Divergence for Machine Learning".
 <li><p> Read post "A Quick Intro to Leave-One-Out Cross-Validation (LOOCV)".
+<li><p> Read post "Review. Multimodal Trajectory Predictions for Autonomous Driving Using Deep Convolutional Networks".
 <li><p> Almost finished with "Exploring Social Posterior Collapse in Variational Autoencoder for Interaction Modeling" paper.
 <li><p> Start reading "Interventional Behavior Prediction Avoiding Overly Confident Anticipation in Interactive Prediction" paper.
 <li><p> Start to second lecture (NYU-DL): "Stochastic gradient descent and backpropagation" (6:53 YT video)
 </ul>
   
 Total papers: 1 \
-Total posts: 2 \
+Total posts: 3 \
 Total lectures: 3 \
 Total codes:
 
