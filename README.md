@@ -36,11 +36,11 @@ This repository contains my tasks summary at the end of each day, paper (Pa) and
 <li><p> See Practicum 1 (NYU-DL). What's left: Highlighy Lecture 1 and Practicum 1 theory, and run practicum 1 code.
 <li><p> See Lecture 1.2. "Machine Learning on Graphs: The Why" (UPenn-GNNs).
 <li><p> See Video 1 (Essence of Linear Algebra) and SVD (Singular Value Decomposition).
-<li><p> Start reading "You Mostly Walk Alone. Analizing Feature Attribution in Trajectory Prediction" paper.
+<li><p> Start reading "You Mostly Walk Alone. Analizing Feature Attribution in Trajectory Prediction" paper (arXiv preprint).
 </ul>
 7th: 
 <ul>
-<li><p> Finish reading "You Mostly Walk Alone. Analizing Feature Attribution in Trajectory Prediction" paper
+<li><p> Finish reading "You Mostly Walk Alone. Analizing Feature Attribution in Trajectory Prediction" paper (arXiv preprint).
 </ul>
 8th: 
 <ul>
@@ -51,8 +51,16 @@ This repository contains my tasks summary at the end of each day, paper (Pa) and
 <li><p> Start reading "Interventional Behavior Prediction Avoiding Overly Confident Anticipation in Interactive Prediction" paper.
 <li><p> Start to second lecture (NYU-DL): "Stochastic gradient descent and backpropagation" (6:53 YT video)
 </ul>
+13th: 
+<ul>
+<li><p> Finish reading "Exploring Social Posterior Collapse in Variational Autoencoder for Interaction Modeling" paper (NeurIPS 2021)
+<li><p> Request Cal 1 Card
+<li><p> Finish reading "Interventional Behavior Prediction: Avoiding Overly Confident Anticipation in Interactive Prediction" (in submission, IROS 2022)
+<li><p> Start reading about Shapley values https://christophm.github.io/interpretable-ml-book/shapley.html
+</ul>
+
   
-Total papers: 1 \
+Total papers: 3 \
 Total posts: 3 \
 Total lectures: 3 \
 Total codes:
