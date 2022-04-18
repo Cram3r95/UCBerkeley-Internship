@@ -58,6 +58,10 @@ This repository contains my tasks summary at the end of each day, paper (Pa) and
 <li><p> Finish reading "Interventional Behavior Prediction: Avoiding Overly Confident Anticipation in Interactive Prediction" (in submission, IROS 2022)
 <li><p> Start reading about Shapley values https://christophm.github.io/interpretable-ml-book/shapley.html
 </ul>
+13th: 
+<ul>
+<li><p> Read post "How to Manage and Restore Tmux Sessions in Linux".
+</ul>
 
   
 Total papers: 3 \
