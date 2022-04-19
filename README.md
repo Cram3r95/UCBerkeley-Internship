@@ -61,11 +61,16 @@ This repository contains my tasks summary at the end of each day, paper (Pa) and
 13th: 
 <ul>
 <li><p> Read post "How to Manage and Restore Tmux Sessions in Linux".
+<li><p> Read paper "Learning Lane Graph Representations for Motion Forecasting" paper (ECCV 2020).
+<li><p> Enhanced README of "Exploring Attention GAN for Vehicle Motion Prediction" paper (in submission, ITSC 2022).
+<li><p> Finish 00-logic_neuron_programming.ipynb assignment (DL course).
+<li><p> Continue reading Shapley values.
+<li><p> Continue studying GNNs Lecture 1.
 </ul>
 
   
-Total papers: 3 \
-Total posts: 3 \
+Total papers: 4 \
+Total posts: 4 \
 Total lectures: 3 \
 Total codes:
 
