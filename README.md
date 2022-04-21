@@ -78,14 +78,10 @@ This repository contains my tasks summary at the end of each day, paper (Pa) and
 <ul>
 <li><p> Organize Workshop: "Accelerating_CUDA_C++_Applications_with_Multiple_GPUs" (NVIDIA DLI).
 <li><p> Read Part 1 Workshop: "Building Transformer-Based Natural Language Processing Applications".
-<li><p> Finish Part 1 Workshop: "Building Transformer-Based Natural Language Processing Applications".  
-  
-<li><p> Start reading "VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation"
-<li><p> Finish 01-tensor_tutorial.ipynb assignment (DL course).
-<li><p> Finish reading Shapley values.
+<li><p> Finish Part 1 (Hand-on) Workshop: "Building Transformer-Based Natural Language Processing Applications".    
+<li><p> Continue reading "VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation"
 </ul>
 
-  
 Total papers: 4 \
 Total posts: 4 \
 
