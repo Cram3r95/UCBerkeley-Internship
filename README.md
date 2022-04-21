@@ -58,36 +58,45 @@ This repository contains my tasks summary at the end of each day, paper (Pa) and
 <li><p> Finish reading "Interventional Behavior Prediction: Avoiding Overly Confident Anticipation in Interactive Prediction" (in submission, IROS 2022)
 <li><p> Start reading about Shapley values https://christophm.github.io/interpretable-ml-book/shapley.html
 </ul>
-13th: 
+18th: 
 <ul>
 <li><p> Read post "How to Manage and Restore Tmux Sessions in Linux".
-<li><p> Read paper "Learning Lane Graph Representations for Motion Forecasting" paper (ECCV 2020).
+<li><p> Start reading "Learning Lane Graph Representations for Motion Forecasting" paper (ECCV 2020).
 <li><p> Enhanced README of "Exploring Attention GAN for Vehicle Motion Prediction" paper (in submission, ITSC 2022).
 <li><p> Finish 00-logic_neuron_programming.ipynb assignment (DL course).
 <li><p> Continue reading Shapley values.
 <li><p> Continue studying GNNs Lecture 1.
 </ul>
+19th: 
+<ul>
+<li><p> Finish reading "Learning Lane Graph Representations for Motion Forecasting" paper (ECCV 2020).
+<li><p> Start reading "VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation"
+<li><p> Finish 01-tensor_tutorial.ipynb assignment (DL course).
+<li><p> Finish reading Shapley values.
+</ul>
+20th: 
+<ul>
+<li><p> Organize Workshop: "Accelerating_CUDA_C++_Applications_with_Multiple_GPUs" (NVIDIA DLI).
+<li><p> Read Part 1 Workshop: "Building Transformer-Based Natural Language Processing Applications".
+<li><p> Finish Part 1 Workshop: "Building Transformer-Based Natural Language Processing Applications".  
+  
+<li><p> Start reading "VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation"
+<li><p> Finish 01-tensor_tutorial.ipynb assignment (DL course).
+<li><p> Finish reading Shapley values.
+</ul>
 
   
 Total papers: 4 \
 Total posts: 4 \
-Total lectures: 3 \
-Total codes:
 
 ### May 
 Total papers: \
 Total posts: \
-Total lectures: \
-Total codes:
 
 ### June 
 Total papers: \
 Total posts: \
-Total lectures: \
-Total codes:
 
 ### July 
 Total papers: \
 Total posts: \
-Total lectures: \
-Total codes:
