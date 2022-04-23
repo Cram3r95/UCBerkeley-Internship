@@ -79,10 +79,15 @@ This repository contains my tasks summary at the end of each day, paper (Pa) and
 <li><p> Organize Workshop: "Accelerating_CUDA_C++_Applications_with_Multiple_GPUs" (NVIDIA DLI).
 <li><p> Read Part 1 Workshop: "Building Transformer-Based Natural Language Processing Applications".
 <li><p> Finish Part 1 (Hand-on) Workshop: "Building Transformer-Based Natural Language Processing Applications".    
-<li><p> Continue reading "VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation"
+<li><p> Continue reading "VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation" paper (CVPR 2020).
+</ul>
+21th: 
+<ul>
+<li><p> Set final objectives for ICRA 2nd round.    
+<li><p> Finish reading "VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation" paper (CVPR 2020).
 </ul>
 
-Total papers: 4 \
+Total papers: 5 \
 Total posts: 4 \
 
 ### May 
