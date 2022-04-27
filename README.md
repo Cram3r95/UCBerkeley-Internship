@@ -49,7 +49,7 @@ This repository contains my tasks summary at the end of each day, paper (Pa) and
 <li><p> Read post "Review. Multimodal Trajectory Predictions for Autonomous Driving Using Deep Convolutional Networks".
 <li><p> Almost finished with "Exploring Social Posterior Collapse in Variational Autoencoder for Interaction Modeling" paper.
 <li><p> Start reading "Interventional Behavior Prediction Avoiding Overly Confident Anticipation in Interactive Prediction" paper.
-<li><p> Start to second lecture (NYU-DL): "Stochastic gradient descent and backpropagation" (6:53 YT video)
+<li><p> Start the second lecture (NYU-DL): "Stochastic gradient descent and backpropagation" (6:53 YT video)
 </ul>
 13th: 
 <ul>
@@ -86,9 +86,22 @@ This repository contains my tasks summary at the end of each day, paper (Pa) and
 <li><p> Set final objectives for ICRA 2nd round.    
 <li><p> Finish reading "VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation" paper (CVPR 2020).
 </ul>
+25th: 
+<ul>
+<li><p> Submit ICRA 2nd round. Let's pray!!!!.    
+<li><p> Finish reading post "Supervised, Semi-Supervised, Unsupervised, and Self-Supervised Learning".
+<li><p> Fix SSH issue with DENSO workstation . 
+</ul>  
+26th: 
+<ul>
+<li><p> Read post "Weight Decay == L2 Regularization?".
+<li><p> Start training LaneGCN in the DENSO workstation. Not working in my UAH pc (almost sure due to CUDA and cuDNN versions).  
+<li><p> Download Argoverse 2.0.
+<li><p> Read post "Interpretability vs Explainability: The Black Box of Machine Learning".
+</ul> 
 
 Total papers: 5 \
-Total posts: 4 \
+Total posts: 7 \
 
 ### May 
 Total papers: \
