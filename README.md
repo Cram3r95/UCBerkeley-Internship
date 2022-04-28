@@ -99,9 +99,14 @@ This repository contains my tasks summary at the end of each day, paper (Pa) and
 <li><p> Download Argoverse 2.0.
 <li><p> Read post "Interpretability vs Explainability: The Black Box of Machine Learning".
 </ul> 
+27th: 
+<ul>
+<li><p> Finish reading "A Unified Approach to Interpreting Model Predictions" paper (NeurIPS 2021).
+<li><p> Start working with SHAP values.  
+</ul>
 
-Total papers: 5 \
-Total posts: 7 \
+Total papers: 6 \
+Total posts: 8 \
 
 ### May 
 Total papers: \
