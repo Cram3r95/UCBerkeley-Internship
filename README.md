@@ -109,8 +109,17 @@ Total papers: 6 \
 Total posts: 8 \
 
 ### May 
+  
+2nd: 
+<ul>
+<li><p> Read post "Partial Dependence and Individual Conditional Expectation plots".
+<li><p> Read post "An introduction to explainable AI with Shapley values"
+<li><p> Run "Census income classification with Keras" notebook (SHAP values for DL models using Kernel Explainer).
+<li><p> Start studying SHAP values for Motion Prediction (Implementation for Trajectron++).  
+</ul>
+  
 Total papers: \
-Total posts: \
+Total posts: 2 \
 
 ### June 
 Total papers: \
