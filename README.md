@@ -118,6 +118,24 @@ Total posts: 8 \
 <li><p> Start studying SHAP values for Motion Prediction (Implementation for Trajectron++).  
 </ul>
   
+3rd - 6th:
+<ul>
+<li><p> Keep studying SHAP values.
+<li><p> Project XAI is discarded due to its complexity and lack of knowledge in GNNs + XAI.  
+</ul>
+  
+9th - 13th:
+<ul>
+<li><p> Studied Week 1 - Week 5 (DL course NYU)  
+</ul>
+  
+14th:
+<ul>
+<li><p> Reading post "Regularization techniques for training deep neural networks"
+<li><p> Fix CARLA Leaderboard CUDA issue -> --gpus all flag in the launch_docker_image_v2.sh script
+<li><p> Studying Week 6 (RNNs) (DL course NYU) 
+</ul>  
+  
 Total papers: \
 Total posts: 2 \
 
