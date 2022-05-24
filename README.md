@@ -129,12 +129,24 @@ Total posts: 8 \
 <li><p> Studied Week 1 - Week 5 (DL course NYU)  
 </ul>
   
-14th:
+16th:
 <ul>
 <li><p> Reading post "Regularization techniques for training deep neural networks"
 <li><p> Fix CARLA Leaderboard CUDA issue -> --gpus all flag in the launch_docker_image_v2.sh script
 <li><p> Studying Week 6 (RNNs) (DL course NYU) 
 </ul>  
+  
+17th - 20th:
+<ul>
+<li><p> Start refactoring Motion Prediction repository.
+<li><p> Prepare camera-ready for ICRA - Fresh Perspectives on the Future of Autonomous Driving workshop
+</ul> 
+  
+23rd:
+<ul>
+<li><p> Refactorize dataset.
+<li><p> Start studying Set transformer (solution from Lyft dataset)  
+</ul> 
   
 Total papers: \
 Total posts: 2 \
