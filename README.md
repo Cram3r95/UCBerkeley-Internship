@@ -148,8 +148,14 @@ Total posts: 8 \
 <li><p> Start studying Set transformer (solution from Lyft dataset)  
 </ul> 
   
+24rd:
+<ul>
+<li><p> Read post "Winning solution for Kaggle challenge: Lyft Motion Prediction for Autonomous Vehicles"
+<li><p> Continue working with the Set transformer + Goals
+</ul> 
+  
 Total papers: \
-Total posts: 2 \
+Total posts: 3 \
 
 ### June 
 Total papers: \
