@@ -148,10 +148,23 @@ Total posts: 8 \
 <li><p> Start studying Set transformer (solution from Lyft dataset)  
 </ul> 
   
-24rd:
+24th:
 <ul>
 <li><p> Read post "Winning solution for Kaggle challenge: Lyft Motion Prediction for Autonomous Vehicles"
 <li><p> Continue working with the Set transformer + Goals
+</ul> 
+  
+25th - 27th:
+<ul>
+<li><p> Prepare poster + presentation (ICRA Fresh Perspectives). YouTube: https://www.youtube.com/watch?v=qzo61V7G1EM&ab_channel=ICRA2022AutonomousDrivingWorkshop
+<li><p> Refactor mapfe4mp repository
+<li><p> Start reading AutoBots paper (ICLR 2022).  
+</ul> 
+  
+31st:
+<ul>
+<li><p> Add option to select CUDA device (mapfe4mp)
+<li><p> Work on IV 2022 qualitative results for oral presentation
 </ul> 
   
 Total papers: \
