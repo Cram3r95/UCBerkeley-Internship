@@ -171,6 +171,21 @@ Total papers: \
 Total posts: 3 \
 
 ### June 
+  
+1st - 10th:
+<ul>
+<li><p> Attend IV (Intelligent Vehicles) 2022 conference
+</ul> 
+  
+13th:
+<ul>
+<li><p> Work on mapfe4mp code  
+<li><p> Check "check_accuracy" function in trainer. It seems to work fine
+<li><p> Add map_location option to torch.load (if you want to restore checkpoint) -> torch.load(restore_path, map_location=current_cuda)
+<li><p> Study the model to observe what I can improve  
+<li><p> Add visualizator. Check that goal point generator and visualizator show the same scenes. Organize model pptx. Extract conclusions from train and validation split
+</ul> 
+  
 Total papers: \
 Total posts: \
 
